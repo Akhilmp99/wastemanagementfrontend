@@ -21,6 +21,6 @@ export class LoginComponent implements OnInit {
 
   loginUser()
   {
-    this._auth.loginUser(this.user);
+    this._auth.loginUser;
   }
 }
